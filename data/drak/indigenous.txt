@@ -64,7 +64,7 @@ ship "Void Sprite"
 	attributes
 		category "Medium Warship"
 		"hull" 9600
-		"required crew" 4
+		"automaton" 1
 		"bunks" 4
 		"mass" 480
 		"drag" 8.2
@@ -117,7 +117,7 @@ ship "Void Sprite" "Void Sprite (Infant)"
 	attributes
 		category "Light Warship"
 		"hull" 2800
-		"required crew" 2
+		"automaton" 1
 		"bunks" 2
 		"mass" 200
 		"drag" 5.4
@@ -160,7 +160,7 @@ ship "Ember Waste Node"
 		category "Heavy Warship"
 		"hull" 19600
 		"shields" 5000
-		"required crew" 5
+		"automaton" 1
 		"bunks" 5
 		"mass" 1000
 		"drag" 8.2
